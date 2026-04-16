@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+*.swp
+.DS_Store
+.vscode/
+node_modules/
+*.sqlite3
+filestore/
+sessions/
